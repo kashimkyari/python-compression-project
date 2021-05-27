@@ -2,3 +2,8 @@ archive.zip
 nyc_taxi_data_2014.csv
 nyc_taxi_data_2014.csv.gz
 report.pdf
+.vscode/launch.json
+testzips
+zips
+.vscode
+report.odt
